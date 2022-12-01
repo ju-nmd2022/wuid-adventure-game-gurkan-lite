@@ -1,0 +1,30 @@
+.coin {
+    position: absolute;
+    right: 650px;
+    font-size: 20px;
+    bottom: 250px;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#result{
+    position: absolute;
+    right: 660px;
+    bottom: 210px;
+}
+.catbank {
+    position:absolute;
+    right: 350px;
+}
+.slut{
+    display: none;
+    position: absolute;
+    right: 350px;
+
+}
+.klar{
+    display: none;
+    position: absolute;
+    right: 350px;
+
+}
